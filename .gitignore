@@ -1,5 +1,6 @@
 Publication/
 Distribution/*NoEditor/*
+Assets/backup/*
 
 # Substance Designer
 .autosave
