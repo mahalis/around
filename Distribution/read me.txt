@@ -1,0 +1,20 @@
+Hi! Thanks for downloading my game. I made it in 48 hours, working alone, for the Ludum Dare 47 “compo” challenge. You can rate it and let me know what you think over here:
+
+https://ldjam.com/events/ludum-dare/47/around
+
+You can find me on Twitter at @mahalis or by email at mahalis@gmail.com.
+
+All the art and sound was made from scratch, using the following:
+
+• Unreal Engine
+• Cinema 4D
+• sfxr
+
+
+How to play:
+
+Avoid obstacles and collect coins. Hitting an obstacle will cost you health; hearts will restore health, unless you have full health in which case they become bonus points.
+
+Controls:
+• To move, use the A/D or left/right keys, or the left thumbstick if you’re using a gamepad.
+• To jump, use the space bar or the left mouse button, or any of the right face buttons (A / B / X / Y etc.) if you’re using a gamepad.
