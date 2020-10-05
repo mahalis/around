@@ -9,6 +9,9 @@ All the art and sound was made from scratch, using the following:
 • Unreal Engine
 • Cinema 4D
 • sfxr
+• Houdini
+
+The font used in the menus and HUD is Comfortaa by Johan Aakerlund. For its license, see SIL Open Font License.txt.
 
 
 How to play:
